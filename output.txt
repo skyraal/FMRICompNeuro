@@ -1,0 +1,213 @@
+Found 93 L1 comprehension files and 93 L2 comprehension files
+Found 68 L1 production files and 66 L2 production files
+Found data for 34 subjects
+
+
+=== Running analysis for comprehension tasks ===
+
+[NiftiMasker.fit] Loading data from None
+[NiftiMasker.fit] Resampling mask
+[NiftiMasker.fit] Finished fit
+Processed L1 ./adultlanglearn_dataset/sub-01/func/sub-01_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-01/func/sub-01_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-01/func/sub-01_task-compL1_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-01/func/sub-01_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-01/func/sub-01_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-01/func/sub-01_task-compLn_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-02/func/sub-02_task-compL1_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-02/func/sub-02_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-02/func/sub-02_task-compL1_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-02/func/sub-02_task-compLn_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-02/func/sub-02_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-02/func/sub-02_task-compLn_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-03/func/sub-03_task-compL1_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-03/func/sub-03_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-03/func/sub-03_task-compL1_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-03/func/sub-03_task-compLn_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-03/func/sub-03_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-03/func/sub-03_task-compLn_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-04/func/sub-04_task-compL1_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-04/func/sub-04_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-04/func/sub-04_task-compL1_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-04/func/sub-04_task-compLn_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-04/func/sub-04_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-04/func/sub-04_task-compLn_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-05/func/sub-05_task-compL1_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-05/func/sub-05_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-05/func/sub-05_task-compL1_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-05/func/sub-05_task-compLn_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-05/func/sub-05_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-05/func/sub-05_task-compLn_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-06/func/sub-06_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-06/func/sub-06_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-06/func/sub-06_task-compL1_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-06/func/sub-06_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-06/func/sub-06_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-06/func/sub-06_task-compLn_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-07/func/sub-07_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-07/func/sub-07_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-07/func/sub-07_task-compL1_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-07/func/sub-07_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-07/func/sub-07_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-07/func/sub-07_task-compLn_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-09/func/sub-09_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-09/func/sub-09_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-09/func/sub-09_task-compL1_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-09/func/sub-09_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-09/func/sub-09_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-09/func/sub-09_task-compLn_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-10/func/sub-10_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-10/func/sub-10_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-10/func/sub-10_task-compL1_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-10/func/sub-10_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-10/func/sub-10_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-10/func/sub-10_task-compLn_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-11/func/sub-11_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-11/func/sub-11_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-11/func/sub-11_task-compL1_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-11/func/sub-11_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-11/func/sub-11_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-11/func/sub-11_task-compLn_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-12/func/sub-12_task-compL1_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-12/func/sub-12_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-12/func/sub-12_task-compL1_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-12/func/sub-12_task-compLn_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-12/func/sub-12_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-12/func/sub-12_task-compLn_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-13/func/sub-13_task-compL1_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-13/func/sub-13_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-13/func/sub-13_task-compL1_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-13/func/sub-13_task-compLn_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-13/func/sub-13_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-13/func/sub-13_task-compLn_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-14/func/sub-14_task-compL1_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-14/func/sub-14_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-14/func/sub-14_task-compL1_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-14/func/sub-14_task-compLn_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-14/func/sub-14_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-14/func/sub-14_task-compLn_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-15/func/sub-15_task-compL1_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-15/func/sub-15_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-15/func/sub-15_task-compL1_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-15/func/sub-15_task-compLn_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-15/func/sub-15_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-15/func/sub-15_task-compLn_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-16/func/sub-16_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-16/func/sub-16_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-16/func/sub-16_task-compL1_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-16/func/sub-16_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-16/func/sub-16_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-16/func/sub-16_task-compLn_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-17/func/sub-17_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-17/func/sub-17_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-17/func/sub-17_task-compL1_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-17/func/sub-17_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-17/func/sub-17_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-17/func/sub-17_task-compLn_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-18/func/sub-18_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-18/func/sub-18_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-18/func/sub-18_task-compL1_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-18/func/sub-18_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-18/func/sub-18_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-18/func/sub-18_task-compLn_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-19/func/sub-19_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-19/func/sub-19_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-19/func/sub-19_task-compL1_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-19/func/sub-19_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-19/func/sub-19_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-19/func/sub-19_task-compLn_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-20/func/sub-20_task-compL1_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-20/func/sub-20_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-20/func/sub-20_task-compL1_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-20/func/sub-20_task-compLn_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-20/func/sub-20_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-20/func/sub-20_task-compLn_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-21/func/sub-21_task-compL1_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-21/func/sub-21_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-21/func/sub-21_task-compL1_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-21/func/sub-21_task-compLn_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-21/func/sub-21_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-21/func/sub-21_task-compLn_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-22/func/sub-22_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-22/func/sub-22_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-22/func/sub-22_task-compL1_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-22/func/sub-22_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-22/func/sub-22_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-22/func/sub-22_task-compLn_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-23/func/sub-23_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-23/func/sub-23_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-23/func/sub-23_task-compL1_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-23/func/sub-23_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-23/func/sub-23_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-23/func/sub-23_task-compLn_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-24/func/sub-24_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-24/func/sub-24_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-24/func/sub-24_task-compL1_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-24/func/sub-24_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-24/func/sub-24_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-24/func/sub-24_task-compLn_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-25/func/sub-25_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-25/func/sub-25_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-25/func/sub-25_task-compL1_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-25/func/sub-25_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-25/func/sub-25_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-25/func/sub-25_task-compLn_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-26/func/sub-26_task-compL1_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-26/func/sub-26_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-26/func/sub-26_task-compL1_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-26/func/sub-26_task-compLn_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-26/func/sub-26_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-26/func/sub-26_task-compLn_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-27/func/sub-27_task-compL1_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-27/func/sub-27_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-27/func/sub-27_task-compL1_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-27/func/sub-27_task-compLn_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-27/func/sub-27_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-27/func/sub-27_task-compLn_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-28/func/sub-28_task-compL1_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-28/func/sub-28_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-28/func/sub-28_task-compL1_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-28/func/sub-28_task-compLn_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-28/func/sub-28_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-28/func/sub-28_task-compLn_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-30/func/sub-30_task-compL1_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-30/func/sub-30_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-30/func/sub-30_task-compL1_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-30/func/sub-30_task-compLn_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-30/func/sub-30_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-30/func/sub-30_task-compLn_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-31/func/sub-31_task-compL1_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-31/func/sub-31_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-31/func/sub-31_task-compL1_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-31/func/sub-31_task-compLn_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-31/func/sub-31_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-31/func/sub-31_task-compLn_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-32/func/sub-32_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-32/func/sub-32_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-32/func/sub-32_task-compL1_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-32/func/sub-32_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-32/func/sub-32_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-32/func/sub-32_task-compLn_run-3_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-33/func/sub-33_task-compL1_run-1_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-33/func/sub-33_task-compL1_run-2_bold.nii.gz
+Processed L1 ./adultlanglearn_dataset/sub-33/func/sub-33_task-compL1_run-3_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-33/func/sub-33_task-compLn_run-2_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-33/func/sub-33_task-compLn_run-1_bold.nii.gz
+Processed L2 ./adultlanglearn_dataset/sub-33/func/sub-33_task-compLn_run-3_bold.nii.gz
+Features shape: (186, 29094)
+Training comprehension classifier on 144 samples, testing on 42 samples
+Training subjects: [np.int64(1), np.int64(2), np.int64(3), np.int64(4), np.int64(5), np.int64(6), np.int64(7), np.int64(9), np.int64(12), np.int64(13), np.int64(14), np.int64(15), np.int64(16), np.int64(18), np.int64(20), np.int64(21), np.int64(22), np.int64(23), np.int64(24), np.int64(26), np.int64(27), np.int64(28), np.int64(31), np.int64(33)]
+Testing subjects: [np.int64(10), np.int64(11), np.int64(17), np.int64(19), np.int64(25), np.int64(30), np.int64(32)]
+Comprehension Classifier accuracy: 0.48
+
+Comprehension Classification Report:
+              precision    recall  f1-score   support
+
+          L1       0.47      0.38      0.42        21
+          L2       0.48      0.57      0.52        21
+
+    accuracy                           0.48        42
+   macro avg       0.48      0.48      0.47        42
+weighted avg       0.48      0.48      0.47        42
+
+Plotting the comprehension classifier weights - positive values (red) are more active for L2, negative values (blue) are more active for L1

@@ -3,6 +3,7 @@ import numpy as np
 from nilearn.input_data import NiftiMasker
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
+from sklearn.linear_model import LogisticRegression, SGDClassifier
 from sklearn.metrics import classification_report, accuracy_score
 from nilearn import plotting
 import glob
@@ -100,7 +101,6 @@ def extract_features(files_by_subject, task_type, mask_file):
                 all_features.append(features[0])
                 all_labels.append(0)  # 0 for L1
                 all_subjects.append(subject_id)
-                print(f"Processed L1 {file_path}")
             except Exception as e:
                 print(f"Error processing {file_path}: {e}")
         
@@ -118,7 +118,7 @@ def extract_features(files_by_subject, task_type, mask_file):
                 all_features.append(features[0])
                 all_labels.append(1)  # 1 for L2
                 all_subjects.append(subject_id)
-                print(f"Processed L2 {file_path}")
+                #print(f"Processed L2 {file_path}")
             except Exception as e:
                 print(f"Error processing {file_path}: {e}")
     
@@ -157,7 +157,9 @@ def train_classifier(features, labels, subjects, task_name):
     print(f"Testing subjects: {sorted(test_subjects)}")
     
     # Train a linear SVM
-    clf = SVC(kernel='linear', C=1.0)
+    #clf = SVC(kernel='linear', C=1.0)
+    #clf = LogisticRegression(C=1.0, max_iter = 1000)
+    clf = SGDClassifier(loss='log_loss', alpha=0.0001, max_iter=1000, random_state=42)
     clf.fit(X_train, y_train)
     
     # Test the classifier
