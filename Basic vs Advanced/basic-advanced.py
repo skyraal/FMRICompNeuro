@@ -13,7 +13,7 @@ import csv
 warnings.filterwarnings("ignore")
 
 # Set up paths and parameters
-data_root = './adultlanglearn_dataset/'
+data_root = '../adultlanglearn_dataset/'
 derivatives_dir = os.path.join(data_root, 'derivatives')
 mask_file = os.path.join(derivatives_dir, 'mask', 'language.img')
 
